@@ -18,7 +18,7 @@ const clearHistory = document.getElementById('clearHistory');
 const existingImage = document.getElementById('preview')
 
 
-
+const v1 = 1
 // State variables
 let currentUserMessage = null;
 let isGeneratingResponse = false;
